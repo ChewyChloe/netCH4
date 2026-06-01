@@ -1,0 +1,6 @@
+{
+  "name": "網路層資料平面互動學習網",
+  "description": "電腦網路第四章：網路層——資料平面的互動式學習平台，包含路由器架構、最長字首匹配、佇列排程、IP 定址及 SDN 等模組教學、模擬器、隨堂測驗與重點複習。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
